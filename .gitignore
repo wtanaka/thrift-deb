@@ -1,0 +1,6 @@
+/build-area
+/*.dsc
+/*.ppa.upload
+/*_source.changes
+/*.tar.gz
+/thrift
